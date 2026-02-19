@@ -4,7 +4,8 @@ description: Analyze what is genuinely possible within a constrained situation, 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4991
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - situated-freedom-assessment
 - storytelling
