@@ -3,8 +3,8 @@ name: situated-freedom-assessment
 description: Analyze what is genuinely possible within a constrained situation, distinguishing real limits from bad faith excuses, to find authentic paths to transcendence.
 license: MIT
 metadata:
+  version: 1.0.4992
   author: sethmblack
-  version: 1.0.4991
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - situated-freedom-assessment
